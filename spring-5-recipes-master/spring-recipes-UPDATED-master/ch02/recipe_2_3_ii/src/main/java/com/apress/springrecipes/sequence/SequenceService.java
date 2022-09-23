@@ -1,3 +1,4 @@
+
 package com.apress.springrecipes.sequence;
 
 import org.springframework.beans.factory.annotation.Autowired;
