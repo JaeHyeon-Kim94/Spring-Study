@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93920bb2-a098-4a96-9d27-8ef3639add32" name="Changes" comment="" />
+    <list default="true" id="93920bb2-a098-4a96-9d27-8ef3639add32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Spring-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mine/Ch2/.idea/Ch2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/config/PrefixConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/resources/appContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_i/com/apress/springrecipes/sequence/DatePrefixGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_i/com/apress/springrecipes/sequence/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_i/com/apress/springrecipes/sequence/PrefixGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_i/com/apress/springrecipes/sequence/SequenceGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_i/com/apress/springrecipes/sequence/config/SequenceConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_ii/com/apress/springrecipes/sequence/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_ii/com/apress/springrecipes/sequence/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_ii/com/apress/springrecipes/sequence/SequenceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_ii/com/apress/springrecipes/sequence/SequenceDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_ii/com/apress/springrecipes/sequence/SequenceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_iii/com/apress/springrecipes/sequence/DatePrefixGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_iii/com/apress/springrecipes/sequence/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_iii/com/apress/springrecipes/sequence/NumberPrefixGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_iii/com/apress/springrecipes/sequence/PrefixGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_iii/com/apress/springrecipes/sequence/SequenceGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/classes/java/main/recipe_2_3_iii/com/apress/springrecipes/sequence/config/SequenceConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_i/com/apress/springrecipes/sequence/DatePrefixGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_i/com/apress/springrecipes/sequence/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_i/com/apress/springrecipes/sequence/PrefixGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_i/com/apress/springrecipes/sequence/SequenceGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_i/com/apress/springrecipes/sequence/config/SequenceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_ii/com/apress/springrecipes/sequence/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_ii/com/apress/springrecipes/sequence/Sequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_ii/com/apress/springrecipes/sequence/SequenceDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_ii/com/apress/springrecipes/sequence/SequenceDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_ii/com/apress/springrecipes/sequence/SequenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_iii/com/apress/springrecipes/sequence/DatePrefixGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/DatePrefixGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_iii/com/apress/springrecipes/sequence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_iii/com/apress/springrecipes/sequence/NumberPrefixGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/NumberPrefixGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_iii/com/apress/springrecipes/sequence/PrefixGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/PrefixGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_iii/com/apress/springrecipes/sequence/SequenceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/SequenceGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3_iii/com/apress/springrecipes/sequence/config/SequenceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mine/Ch2/Recipe_2_3/src/main/java/recipe_2_3/com/apress/springrecipes/sequence/config/SequenceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +62,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2F1bHx12e24R0Y6NGyUjV0jLuAv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Spring-Study/spring-5-recipes-master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Spring-Study/mine/Ch2/Recipe_2_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +93,22 @@
       <updated>1663662452252</updated>
       <workItem from="1663662453533" duration="12000" />
       <workItem from="1663662487954" duration="4000" />
+      <workItem from="1663981448865" duration="5085000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
