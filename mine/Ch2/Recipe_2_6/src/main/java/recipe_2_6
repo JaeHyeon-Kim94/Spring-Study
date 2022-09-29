@@ -1,0 +1,7 @@
+외부 리소스의 데이터 사용하기
+
+1. 스프링이 제공하는 @PropertySource 이용하여 .properties 파일의 key-value 쌍 읽어들이기.
+
+2. @Value를 통해 어떤 위치에 있는 파일을 Resource에 로드해 사용하기.
+
+3. 외부 리소스의 경우 FileSystemResource 혹은 UrlResource를 통해 Resource에 로드하여 사용하기.

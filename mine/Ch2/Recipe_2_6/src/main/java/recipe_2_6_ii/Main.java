@@ -1,16 +1,19 @@
-package recipe_2_6_i;
+package recipe_2_6_ii;
+
+import java.util.Properties;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import recipe_2_6_i.config.ShopConfig;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.FileSystemResource;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.support.PropertiesLoaderUtils;
 
-/*
-* 1. @PropertySource => .properties
-* 2. Resource 인터페이스
-* 3. @Value
-* */
+import recipe_2_6_ii.config.ShopConfig;
+
 public class Main {
-    public static void main(String[] args) {
+
+    public static void main(String[] args) throws Exception {
         ApplicationContext context =
                 new AnnotationConfigApplicationContext(ShopConfig.class);
 
@@ -27,6 +30,15 @@ public class Main {
         ShoppingCart cart2 = context.getBean("shoppingCart", ShoppingCart.class);
         cart2.addItem(dvdrw);
         System.out.println("Shopping cart 2 contains " + cart2.getItems());
+
+
+        Resource resource = new ClassPathResource("discounts.properties");
+        //3.
+        //Resource resource = new FileSystemResource("C:/Spring-Study/mine/Ch2/Recipe_2_6/src/main/resources/discounts.properties");
+        //Etc. Resource resource = new UrlResource("http://~~");
+        Properties props = PropertiesLoaderUtils.loadProperties(resource);
+        System.out.println("And don't forget our discounts!");
+        System.out.println(props);
 
     }
 }
